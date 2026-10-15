@@ -1,0 +1,6 @@
+{
+  "name": "Wayfinder Expedition Planner",
+  "description": "Zero-cost backcountry and wilderness expedition planner with emergency protocols, 3-day weather forecasting, GPS Apple location sharing, and field dashboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
